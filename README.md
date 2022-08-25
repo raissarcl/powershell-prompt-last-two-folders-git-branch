@@ -17,11 +17,13 @@ Perfis podem ser usados em diferentes paths e ter nomes de arquivo variados depe
   - Usuários.
   - Hosts.
 
-1. Simply add the profile file to the correct path.
-1. Simplesmente adicione o arquivo de perfil no path correto.
+1:
+- Simply add the profile file to the correct path.
+- Simplesmente adicione o arquivo de perfil no path correto.
 
-2. Change its name accordingly.
-2. Mude o nome de acordo.
+2:
+- Change its name accordingly.
+- Mude o nome de acordo.
 
 The official documentation presents a simple and easy to follow tutorial **(the link will lead to the 7.2 version, but it can be changed in the upper left corner)**: [PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7.2)
 
