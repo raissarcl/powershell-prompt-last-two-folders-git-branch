@@ -1,8 +1,8 @@
 # Summary
 
-Sometimes in the PowerShell command line the shown path can become too extensive, therefore this prompt function in a PowerShell profile shows only the last two (or less) folders in a path.
+Sometimes in the PowerShell command line the shown path can become too extensive, therefore this prompt function in a PowerShell profile shows only up to the last two folders in a path.
 
-Às vezes o path mostrado na linha de comando do PowerShell pode tornar-se muito extenso, portanto essa função prompt em um perfil PowerShell mostra somente as duas últimas (ou menos) pastas no path.
+Às vezes o path mostrado na linha de comando do PowerShell pode tornar-se muito extenso, portanto essa função prompt em um perfil PowerShell mostra somente até as duas últimas pastas no path.
 
 # Use
 Profiles can be used in different paths and have different file names depending on: 
