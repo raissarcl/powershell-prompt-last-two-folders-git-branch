@@ -2,18 +2,18 @@ function prompt {
 
   $p = split-path -leaf -path (get-Location)
   $q = split-path -parent -path (get-Location)
-  $r = split-path -qualifier -path (get-Location)
 
   if($q) {
-    $s = split-path -leaf -path ($q)
+    $r = split-path -leaf -path ($q)
   }
 
-  if ($q -eq $s) {
+  if ($q -eq $r) {
     "PS $q$p> "
   } elseif (-not $q) {
-    "PS $r> "
+    "PS $p> "
   } else {
-      "PS $s\$p> "
+      "PS $r\$p> "
   }
   
 }
+
