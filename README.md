@@ -24,5 +24,6 @@ Perfis podem ser usados em diferentes paths e ter nomes de arquivo variados depe
 2. Mude o nome de acordo.
 
 The official documentation presents a simple and easy to follow tutorial **(the link will lead to the 7.2 version, but can be changed in the upper left corner)**:
+
 A documentação oficial apresenta um tutorial simples e fácil de seguir **(o link levará para a versão 7.2, mas pode ser mudada no canto superior esquerdo)**:
 [PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7.2)
