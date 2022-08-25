@@ -13,6 +13,7 @@ function prompt {
   } elseif (-not $q) {
     "PS $r> "
   } else {
-      "PS $s/$p> "
+      "PS $s\$p> "
   }
+  
 }
