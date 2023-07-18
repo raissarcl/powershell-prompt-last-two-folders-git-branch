@@ -1,8 +1,8 @@
 # Summary
 
-Sometimes in the PowerShell command line the shown path can become too extensive, therefore this prompt function in a PowerShell profile shows only up to the last two folders in a path.
+Sometimes in the PowerShell command line the shown path can become too extensive, therefore this prompt function in a PowerShell profile shows only up to the last two folders in a path. In the profile2 file, it also shows the current git branch in blue.
 
-Às vezes o path mostrado na linha de comando do PowerShell pode tornar-se muito extenso, portanto essa função prompt em um perfil PowerShell mostra somente até as duas últimas pastas no path.
+Às vezes o path mostrado na linha de comando do PowerShell pode tornar-se muito extenso, portanto essa função prompt em um perfil PowerShell mostra somente até as duas últimas pastas no path. No arquivo profile2, também mostra a atual branch do git em azul.
 
 # Use
 Profiles can be used in different paths and have different file names depending on: 
